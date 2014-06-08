@@ -1,0 +1,81 @@
+body
+{
+	background-image: url("../img/背景.png");
+}
+h3
+{
+	text-align: center;
+}
+strong
+{
+	text-align: center;
+}
+#alert1
+{
+	margin:0px;
+}
+.navbar
+{
+	margin-bottom: 0px;
+}
+#mainbrand
+{
+	font-size: 25px;
+	padding-left: 16%;
+	padding-top: 5%;
+	color:rgb(32, 196, 91);
+}
+.list-group-item
+{
+	
+}
+.pagination
+{
+	text-align: center;
+}
+#LogoBox
+{
+	text-align: center;
+}
+#Logo
+{
+	max-width: 50px;
+	max-height: 50px;
+}
+#goodInfo
+{
+	text-align: center;
+	width:263px;
+	height:366px;
+}
+#goodImgbox
+{
+	text-align: center;
+	height:274px;
+}
+#goodImg
+{
+	text-align: center;
+	max-width: 263px;
+	max-height: 250px;
+}
+#goodCombox
+{
+	text-align: center;
+	max-height:92px;
+}
+#goodCom
+{
+	font-size: 3px；
+	height:80px;
+	overflow:hidden;
+	width:240px;
+	white-space:nowrap;
+	text-overflow:ellipsis;
+}
+.bottom {
+  bottom: 0;
+  width: 100%;
+  clear:both;
+  text-align: center;
+}
